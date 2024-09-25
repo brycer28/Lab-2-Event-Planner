@@ -10,6 +10,10 @@ Launch Instructions:
 5) Copy and paste repository link (github.com/brycer28/Lab-2-Event-Planner)
 6) Navigate to EventPlanner.java and Run
 
+Known Issues:
+- Marking an event complete works, but does not auto update the displayPanel
+- Reverse sort does not work, please leave feedback for sortEvents()
+
 *! POTENTIAL ERRORS !*
 - Do not enter End Time or Location information if Deadline is selected
 - Be sure to follow all specified formats for event information
